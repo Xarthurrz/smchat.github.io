@@ -10,7 +10,7 @@ class Landing {
         this.element.classList.add("Landing");
         // ISI DARI "LANDING"
         this.element.innerHTML = (`
-            <div class="Title">SM-Chat</div>
+            <div class="Title">SMChatweb</div>
             <div class="Desc">Login dulu cuyn</div>
             <div class="Tombol">
                 <button class="btn-1 chooseEmail"><i class="far fa-envelope"></i>Email</button>
