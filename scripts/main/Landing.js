@@ -70,7 +70,7 @@ class Landing {
         this.regElement = document.createElement("div");
         this.regElement.classList.add("Landing");
         this.regElement.innerHTML = (`
-            <div class="Title">KIRIMIN</div>
+            <div class="Title">SMChatweb</div>
             <div class="Desc">Login Email</div>
             <div class="Tombol">
                 <input type="text" placeholder="Email" data-inpt="email" required />
